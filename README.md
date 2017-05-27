@@ -26,4 +26,4 @@ The project simply creates a poll application in which it keeps track of the amo
 2. Download Django 1.11.X and Python 2.7.X
 3. Change directory to folder with 'manage.py'
 4. Run **python manage.py runserver**
-   _You may need to add localhost to **settings.py** _
+   _You may need to add localhost to **settings.py**_
